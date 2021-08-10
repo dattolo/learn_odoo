@@ -3,8 +3,11 @@
 **Chapther 12**
 
 # Implementing E-Commerce with Odoo
+A beginner's guide
 
-## Defining model methods and using API decorators
+## Setting up product variants
+Product variants allow you to offer different options for the same product.
+
 
 
 ---
