@@ -1,10 +1,13 @@
 *Learn Odoo*
 
 **Chapther 1**
+
 #Setting Up Odoo 12
+
 *... same notes that I image useful for me...*
 
 ##Introducing the PostgreSQL database
+
 Like most **ERP systems**, Odoo has specific database requirements: in this case, **PostgreSQL**. PostgreSQL is an open source, cross-platform Object Relational Database Management System (**ORDMS**). While not popular on the scale of Microsoft SQL Server or MySQL, PostgreSQL is an *enterprise-class database server* with many advanced features. In fact, PostgreSQL stacks up very well against far more expensive databases such as Microsoft
 SQL Server and Oracle Database.
 
@@ -29,9 +32,11 @@ The model is essentially the data that makes up your Odoo installation, which is
 Each view in Odoo is defined in XML documents. *The Odoo framework is responsible for rendering these view files in a web browser.*
 
 ### Authoring controllers
+
 The *controller component* of the architecture is where the **business logic and workflow rules** of the Odoo application are applied.
 
 ##Introducing Ubuntu
+
 Ubuntu (pronounced *oo-BOON-too*) is a very popular open source **OS based on the Linux kernel**.
 
 ###Choosing an Ubuntu Odoo installation
