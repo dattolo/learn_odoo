@@ -40,6 +40,51 @@ Notice the **small purple teardrop** that provides *helpful tips*.
 
 Working from left to right, *like as a wizard*, we can see that it starts with the *Company Data*. You then pick a **Quotation Layout** to customize the look of your quotations and sales orders.
 
+#### Using multiple contacts and addresses
+An individual customer can have multiple contacts and addresses.
+
+#### Editing customer Sales & Purchases
+
+The available options in the customer Sales & Purchases page are as follows:
+- Is a Customer;
+- Salesperson (*Customer Relationship Management (CRM)*);
+- Internal Reference;
+- Is a Vendor;
+
+>Odoo uses a **common database** to store customer and supplier records.
+
+## Entering a product in Odoo
+
+### Creating products in Odoo
+
+#### Can be sold
+You can use Can be Sold to remove products from showing up on product lists.
+
+#### Can be purchased
+This will play an important function when we get to *Chapter 4 , Purchasing with Odoo*.
+
+#### Product type
+- Service;
+- Consumables;
+
+**Service product** types will not create procurement (*approviggionamento*) in purchase orders.
+**Consumables** are products that you actually sell and can be configured to generate purchase orders.
+
+#### Internal reference
+It can be field blank.
+
+#### Sale price
+
+#### The Cost price
+It can be utilized for simple profit margin calculations.
+
+### Entering a product Invoicing page
+By default, Odoo has set up a tax of 15% for both our **Customer Taxes** and our **Vendor Taxes**. However, there will be times when you have a product that has a specific tax.
+
+#### Invoicing policy
+By default, Odoo configures invoicing so that the line items of the invoice will be created depending on the ordered quantities from the sales order.
+
+
 ---
 
 [![Francesco Dattolo](https://i0.wp.com/www.francescodattolo.it/wp-content/uploads/2019/09/cropped-francescodattolo-free_hand-logo-1.png)](https://francescodattolo.it)
