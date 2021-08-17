@@ -46,9 +46,6 @@ There are several reasons why this is true:
 - **Ubuntu has additional scalability options**;
 - **Ubuntu has strong community support for Odoo**: The fact is that *a vast majority of the production installations of Odoo are running under Ubuntu*.
 
-
-
-
 ---
 
 [![Francesco Dattolo](https://i0.wp.com/www.francescodattolo.it/wp-content/uploads/2019/09/cropped-francescodattolo-free_hand-logo-1.png)](https://francescodattolo.it)
