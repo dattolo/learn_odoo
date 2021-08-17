@@ -26,6 +26,9 @@ Instead of treating customers like cattle (bestiame), a smart account manager us
 
 Treat your customer *like an individual* and they will reward you with their loyalty (lealtà).
 
+
+
+
 ---
 
 [![Francesco Dattolo](https://i0.wp.com/www.francescodattolo.it/wp-content/uploads/2019/09/cropped-francescodattolo-free_hand-logo-1.png)](https://francescodattolo.it)
