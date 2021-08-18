@@ -6,7 +6,6 @@
 
 *... same notes that I image useful for me...*
 
-
 One of the greatest advantages of Odoo is that it is easy to get up and running with very little setup. **Within just a few minutes, you can have several applications installed and you can begin working with the system right away.**
 
 ## Administering users in Odoo
@@ -64,4 +63,4 @@ As we stated previously, setting up a multi-company system is complex.
 
 *Francesco Dattolo*
 
-*2108101424*
+*2108181110*
