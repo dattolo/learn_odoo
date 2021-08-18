@@ -11,7 +11,7 @@ You can find this quick reference at [https://www.odoo.com/page/editions](https:
 
 There is a *handy service*, called **odoo runbot**, that will not only help you with comparing the two editions but can also help you to test out any version of Odoo. You can access odoo runbot by going to [runbot.odoo.com/runbot](https://runbot.odoo.com/runbot)
 
-
+When you first navigate to odoo runbot, you are presented with a list of the Odoo Community builds.
 
 ---
 
