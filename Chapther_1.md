@@ -15,7 +15,6 @@ SQL Server and Oracle Database.
 
 The primary programming language of Odoo is **Python**.
 
-
 *Starting in Odoo 11, Odoo began using Python 3.5 instead of Python 2.7.*
 
 ## Following the Model-View-Controller design
@@ -52,4 +51,4 @@ There are several reasons why this is true:
 
 *Francesco Dattolo*
 
-*2108101424*
+*2108181111*
