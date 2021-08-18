@@ -2,7 +2,7 @@
 
 **Chapther 2**
 
-#Installing Your First Application
+# Installing Your First Application
 
 *... same notes that I image useful for me...*
 
@@ -91,4 +91,4 @@ By default, Odoo configures invoicing so that the line items of the invoice will
 
 *Francesco Dattolo*
 
-*2108101424*
+*2108181113*
